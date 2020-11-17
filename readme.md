@@ -1,0 +1,1 @@
+some little project for game entry or to decide the luck stuff
